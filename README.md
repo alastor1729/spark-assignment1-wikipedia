@@ -1,5 +1,5 @@
 # spark-assignment1-wikipedia
-This assignment is taken from Spark Coursera Class:
+This assignment is taken from Heather Miller's Coursera-Spark-Class:
 
 https://www.coursera.org/learn/scala-spark-big-data/programming/FaEtp/wikipedia/instructions 
 
